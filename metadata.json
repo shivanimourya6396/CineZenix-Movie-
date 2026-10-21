@@ -1,0 +1,6 @@
+{
+  "name": "CineZenix",
+  "description": "Premium movie and web series streaming platform with dual servers, multi-language audio, quality selection, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

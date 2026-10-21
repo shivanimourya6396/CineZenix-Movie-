@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890785699893",
+    "project_id": "cinezenix-movie-app",
+    "storage_bucket": "cinezenix-movie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890785699893:android:a6868a4c85776d9b09797c",
+        "android_client_info": {
+          "package_name": "com.cinezenix.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTchYImk7rRBYGCyTLZIv9YUQRk9q1xAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
